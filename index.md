@@ -75,7 +75,7 @@ CAP-теорема рассказывает о том, что пойдёт не 
 _class: lead
 _color:  #cd65a5 
 -->
-![bg cover](https://source.unsplash.com/1LwpTfvW4C0)
+![bg cover opacity:60%](https://source.unsplash.com/1LwpTfvW4C0)
 # C for Consistency
 
 
