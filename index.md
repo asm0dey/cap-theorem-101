@@ -248,6 +248,11 @@ https://jvns.ca/blog/2016/11/19/a-critique-of-the-cap-theorem/
 
 
 ---
+<!-- _class: lead -->
+
+# <!-- fit --> :zzz:
+
+---
 
 <!--
 _theme: white
