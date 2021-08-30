@@ -8,7 +8,7 @@ class: default
 backgroundImage: "linear-gradient(to bottom, #000 0%, #1a2028 50%, #293845 100%)"
 color: white
 paginate: true
-footer: @asm0di0 at Twitter&emsp13;&emsp13;@asm0dey at Telegram
+footer: '[![](images/twitter_24.png)asm0di0](https://twitter.com/asm0di0)'
 ---
 <style>
 .hljs-variable { color: lightblue }
@@ -228,11 +228,45 @@ https://jvns.ca/blog/2016/11/19/a-critique-of-the-cap-theorem/
 
 ---
 
+<!-- _class: lead -->
+# <!-- fit --> Так просто?
+
+---
+
+<!-- _class: lead -->
+# <!-- fit --> НЕТ
+![bg brightness:0.3](https://source.unsplash.com/WPrTKRw8KRQ)
+
+---
+
+# PACELC
+
+> Теорема PACELC — расширение теоремы CAP, которое гласит, что в случае разделения сети (P) в распределённой компьютерной системе необходимо выбирать между доступностью (A) и согласованностью (C) (согласно теореме CAP), но в любом случае, даже если система работает нормально в отсутствии разделения (E), нужно выбирать между задержками (L) и согласованностью (C). 
+> -- [Wikipedia][1]
+
+[1]: https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0_PACELC?oldformat=true
+
+
+---
+
+<!--
+_theme: white
+_background: white
+_backgroundImage: "linear-gradient(to bottom, #fff 0%, #fff 50%, #fff 100%)"
+_color: black
+-->
+
+![bg fit](images/pacelc.png)
+
+# PACELC
+
+---
+
 # Выводы?
 
 * Знай CAP теорему
 * Знай где твоя система в ней
-* Не обманывайся — ты не достгнешь CAP
+* Не обманывайся — ты не достигнешь CAP
 
 ---
 
@@ -251,4 +285,5 @@ https://jvns.ca/blog/2016/11/19/a-critique-of-the-cap-theorem/
 # Спасибо!
 
 @asm0dey всюду
-@asm0di0 :bird:
+@asm0di0 ![](images/twitter_24.png)
+https://newpodcast2.live
